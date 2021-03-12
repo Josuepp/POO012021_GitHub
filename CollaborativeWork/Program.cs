@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 
 namespace CollaborativeWork
 {
@@ -7,6 +7,11 @@ namespace CollaborativeWork
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+        }
+
+        static string ReadFromConsole()
+        {
+            return Console.ReadLine();
         }
     }
 }

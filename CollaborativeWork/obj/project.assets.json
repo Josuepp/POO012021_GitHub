@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Josue\\Desktop\\UCA\\2021\\Repaso de Git y GitHub\\Repo1\\CollaborativeWork\\CollaborativeWork.csproj",
+      "projectUniqueName": "C:\\Users\\Josue\\Desktop\\UCA\\2021\\Repaso de Git y GitHub\\clone\\POO012021_GitHub\\CollaborativeWork\\CollaborativeWork.csproj",
       "projectName": "CollaborativeWork",
-      "projectPath": "C:\\Users\\Josue\\Desktop\\UCA\\2021\\Repaso de Git y GitHub\\Repo1\\CollaborativeWork\\CollaborativeWork.csproj",
+      "projectPath": "C:\\Users\\Josue\\Desktop\\UCA\\2021\\Repaso de Git y GitHub\\clone\\POO012021_GitHub\\CollaborativeWork\\CollaborativeWork.csproj",
       "packagesPath": "C:\\Users\\Josue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Josue\\Desktop\\UCA\\2021\\Repaso de Git y GitHub\\Repo1\\CollaborativeWork\\obj\\",
+      "outputPath": "C:\\Users\\Josue\\Desktop\\UCA\\2021\\Repaso de Git y GitHub\\clone\\POO012021_GitHub\\CollaborativeWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Josue\\AppData\\Roaming\\NuGet\\NuGet.Config"
