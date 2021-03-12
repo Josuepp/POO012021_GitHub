@@ -1,0 +1,16 @@
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.exe
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.deps.json
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.runtimeconfig.json
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.runtimeconfig.dev.json
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.dll
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\bin\Debug\net5.0\ref\CollaborativeWork.dll
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.pdb
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.csprojAssemblyReference.cache
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.AssemblyInfoInputs.cache
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.AssemblyInfo.cs
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.dll
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\obj\Debug\net5.0\ref\CollaborativeWork.dll
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.pdb
+C:\Users\Josue\Desktop\UCA\2021\Repaso de Git y GitHub\clone\POO012021_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.genruntimeconfig.cache
